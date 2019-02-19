@@ -1,3 +1,5 @@
+link to [Instructable](https://www.instructables.com/id/Standalone-ATmega328p-using-Internal-8-MHz-Clock/)
+
 # ATmega328p-pu-Bootloader-burner-sketch-uploader
 Using this Repository you can minimise the size of your projects and make them a lot cheaper. This is done by reducing the number of components of the development board such as onboard LEDs, external Crystal oscillators, external Capacitors and many other redundant components built into the development boards.
 
@@ -8,11 +10,11 @@ List of Parts needed
 3. Jumper Wires
 4. LM7805 Voltage Regulator
 5. Breadboard
-6. Arduino Uno Development board 
+6. Arduino Uno Development board
 
 We also need Arduino IDE to Burn Bootloader and upload sketches to ATmega328P. You can download it from [here](https://www.arduino.cc/)
 
-You also need to download Arduino on a Breadboard library. You can download it from [here] (https://www.arduino.cc/en/Tutorial/ArduinoToBreadboard) according to your IDE version.
+You also need to download Arduino on a Breadboard library. You can download it from [here](https://www.arduino.cc/en/Tutorial/ArduinoToBreadboard) according to your IDE version.
 
 ## Uploading Bootloader to ATmega 328P
 
